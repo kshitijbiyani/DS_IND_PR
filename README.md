@@ -1,3 +1,3 @@
-## This is the git tutorialsgit by Kshitij
+## This is the git tutorials by Kshitij.
 ### Practising commit
 ### Commit 2
